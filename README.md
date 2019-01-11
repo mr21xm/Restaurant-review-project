@@ -2,7 +2,7 @@
 ---
 #### This app  is created as part of the Udacity Nanodegree "Front-End Developer". 
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Project Overview: Stage 1 
 
