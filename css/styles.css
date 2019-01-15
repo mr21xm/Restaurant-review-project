@@ -407,3 +407,8 @@ nav h1 a {
 
 
 }
+
+
+.hidden {
+  visibility: hidden;
+}
