@@ -18,12 +18,13 @@
 - View already loaded pages also in offline mode
 - Accessibility: Use the app with screen reader or keyboard-only
 
-### Specification
+### Installation and Opening it locally 
 
-You have been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality.
-
-### Project Rubric
-
-Your project will be evaluated by a Udacity code reviewer according to the [Restaurant Reviews project rubric](https://review.udacity.com/#!/rubrics/1090/view). Please review for detailed project requirements. The rubric should be a resource you refer to periodically to make sure your project meets specifications.
-
+1. Clone this repository or download it as a zip.
+2. open the root folder of the repository in the terminal or cmd.
+3. Check you python version by running `python -V` in the terminal.
+4. To start a local serer:
+	- For Python 2.x: `python -m SimpleHTTPServer 8001`
+	- For Python 3.x: `python3 -m http.server 8001`
+5. Visit http://localhost:8001
 
